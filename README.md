@@ -1,5 +1,8 @@
 # Data-Engineering-project
 
+## Schema of the Data Pipeline
+![](images/schema_data_pipeline.png)
+
 ## Summary
 The goal of this project is to create a real time data engineering pipeline that takes in input reviews from Yelp.com (https://www.yelp.com/dataset) and apply Sentiment Analysis to it. The reviews will be classified into 3 categories : POSITIVE, NEGATIVE, NEUTRAL.
 For the pipeline we will be using the following tools : 
